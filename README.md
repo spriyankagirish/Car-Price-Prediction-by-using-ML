@@ -47,6 +47,6 @@ Note: Several of the attributes in the database could be used as a "class" attri
 - Model building 
 - Prediction and Evaluation
 
-<b>Part 2</b> Automatic Feature Elimination using RFE
 
-<b>Part 3</b> Principal Component Analysis
+
+<b>Part 2</b> Principal Component Analysis
