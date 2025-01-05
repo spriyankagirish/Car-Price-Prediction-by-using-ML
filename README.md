@@ -9,7 +9,7 @@ Note: Several of the attributes in the database could be used as a "class" attri
 <b>Attribute Information:</b>
 
 1. symboling: -3, -2, -1, 0, 1, 2, 3.
-2. normalized-losses: continuous from 65 to 256.
+2. normalized-losses: continuous from 65 to 256. 
 3. make: alfa-romero, audi, bmw, chevrolet, dodge, honda, isuzu, jaguar, mazda, mercedes-benz, mercury, mitsubishi, nissan, peugot, plymouth, porsche, renault, saab, subaru, toyota, volkswagen, volvo
 
 4. fuel-type: diesel, gas.
