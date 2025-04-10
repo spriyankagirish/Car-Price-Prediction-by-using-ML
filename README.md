@@ -51,3 +51,20 @@ Note: Several of the attributes in the database could be used as a "class" attri
 
 
 <b>Part 2</b> Principal Component Analysis
+ ---
+
+### Note on Dataset Access
+
+To maintain data privacy and prevent misuse, the dataset used in this project is not uploaded directly to this repository.
+
+**If you're a recruiter  who would like to access the dataset**, please request access here: https://drive.google.com/file/d/1lBrmDpsO8Ggtx5ED3QfjSJr0QX-stM8o/view?usp=sharing
+
+Once approved, you’ll receive a link to the dataset via Google Drive within 24 hours.
+
+*This ensures project security while keeping it fully reproducible.*
+
+In Your Code (Notebook or Script):
+
+# Dataset not included in the public repo
+
+# Please request access using the link in the README to get the dataset
